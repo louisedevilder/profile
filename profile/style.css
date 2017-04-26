@@ -1,0 +1,73 @@
+h1, h2, h3 {
+  font-family: Helvetica, sans-serif;
+  color: #76aee0;
+  text-align: center;
+}
+
+p {
+  font-family: Helvetica, sans-serif;
+  color: black;
+  text-align: center;
+}
+
+body {
+  background-color : white;
+}
+
+a {
+  font-family: Helvetica, sans-serif;
+  color: black;
+  text-align: center;
+  text-decoration:none;
+
+}
+
+a:hover {
+  color: #76aee0;
+}
+
+li {
+  list-style: none;
+  display: inline;
+  text-decoration: none;
+  padding: 0px 20px;
+
+}
+
+.container {
+  width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.card {
+  text-align: center;
+}
+
+
+.img-description {
+  width: 400px;
+  height: auto;
+  margin: 10px;
+}
+
+.social {
+  text-align: center;
+}
+
+#img-circle {
+  width: 400px;
+  height: auto;
+  margin: 10px;
+  border-radius: 50%;
+}
+
+#tarte {
+  height: 265px;
+  width: auto;
+  margin: 10px;
+}
+
+#tarte:hover {
+  border: 1px solid #76aee0;
+}
